@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techgod143" alt="techgod143" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp bot](wa.me/919012008456)
+- 🔭 I’m currently working on [Whatsapp bot](wa.me/917466008456)
 
 - 🌱 I’m currently learning **Javascript & pythan**
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Whatsapp bot**
 
-- 📫 How to reach me **wa.me/919012008456**
+- 📫 How to reach me **wa.me/917466008456**
 
 - 📄 Know about my experiences [youtube.com/@techgod143](youtube.com/@techgod143)
 
